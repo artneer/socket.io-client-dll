@@ -4,5 +4,3 @@ EXPORTS
 
 SIOC_Connect			@1
 SIOC_Disconnect			@2
-
-SIOC_AddUser			@11
